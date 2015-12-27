@@ -19,6 +19,7 @@ public class demo {
 		System.out.println("subtrction of two numbers is :" + s);
 		System.out.println("multipication of two numbers is :" + m);
 		System.out.println("devision of two numbers is :" + d);
+		System.out.println("devision of two numbers is :" + d);
 	}
 
 }
