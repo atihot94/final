@@ -14,9 +14,11 @@ public class demo {
 		int c=a+b;
 		int s=a-b;
 		int m=a*b; 
+		int d=a/b;
 		System.out.println("sum of two numbers is :" + c);
 		System.out.println("subtrction of two numbers is :" + s);
 		System.out.println("multipication of two numbers is :" + m);
+		System.out.println("devision of two numbers is :" + d);
 	}
 
 }
